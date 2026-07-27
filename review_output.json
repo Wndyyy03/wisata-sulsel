@@ -12,11 +12,11 @@
       "lng": 119.4059412
     },
     "nominatim_display_name": "Jalan Tanjung Bira, Sambung Jawa, Mamajang, Makassar, Sulawesi Selatan, 90126, Indonesia",
-    "nominatim_importance": 0.053388335240711036,
-    "matched_query": "Tanjung Bira, Sulawesi Selatan, Indonesia",
     "confidence_level": 3,
     "distance_km": 121.18,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": false,
+    "reject_reason": "SALAH: nyasar ke nama jalan di Makassar, bukan pantai di Bulukumba"
   },
   {
     "_id": "6a635f380b463ce4f5fee98c",
@@ -26,7 +26,6 @@
       "lat": -3.0817,
       "lng": 119.8919
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -37,7 +36,6 @@
       "lat": -5.0322,
       "lng": 119.6564
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -52,12 +50,11 @@
       "lat": -4.9265859,
       "lng": 119.5945104
     },
-    "nominatim_display_name": "Rammang-Rammang, Jalan Poros Maros - Pangkajene Pangkep, Lempangan, Bontoa, Maros, Bonto Langkasa, Sulawesi Selatan, 90554, Indonesia",
-    "nominatim_importance": 0.4075198435543142,
-    "matched_query": "Rammang-Rammang, Maros, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Rammang-Rammang, Maros, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 3.74,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a635f380b463ce4f5fee98f",
@@ -71,12 +68,11 @@
       "lat": -5.14338,
       "lng": 119.4075647
     },
-    "nominatim_display_name": "Anjungan Pantai Losari, Maloku, Ujung Pandang, Makassar, Sulawesi Selatan, 90113, Indonesia",
-    "nominatim_importance": 0.053388335240711036,
-    "matched_query": "Pantai Losari, Kota Makassar, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Anjungan Pantai Losari, Makassar, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 0.83,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a635f380b463ce4f5fee990",
@@ -90,12 +86,11 @@
       "lat": -5.2391462,
       "lng": 119.8706126
     },
-    "nominatim_display_name": "Malino, Tinggimoncong, Gowa, Sulawesi Selatan, 92178, Indonesia",
-    "nominatim_importance": 0.18671666819256882,
-    "matched_query": "Malino, Gowa, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Malino, Tinggimoncong, Gowa, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 3.92,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a635f380b463ce4f5fee991",
@@ -109,12 +104,11 @@
       "lat": -5.1255054,
       "lng": 119.3435008
     },
-    "nominatim_display_name": "Pulau Samalona, Lae-Lae, Ujung Pandang, Makassar, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.39892313782029826,
-    "matched_query": "Pulau Samalona, Kota Makassar, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Pulau Samalona, Makassar, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 3.32,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a635f380b463ce4f5fee992",
@@ -124,7 +118,6 @@
       "lat": -5.133,
       "lng": 119.4083
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -140,11 +133,10 @@
       "lng": 118.962176
     },
     "nominatim_display_name": "Pulau Kapoposang, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.40053304207139734,
-    "matched_query": "Pulau Kapoposang, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 3.78,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a63777e37305c79d5761c87",
@@ -159,11 +151,11 @@
       "lng": 110.6317119
     },
     "nominatim_display_name": "Pantai Seruni, Tepus, Gunungkidul, Daerah Istimewa Yogyakarta, Indonesia",
-    "nominatim_importance": 0.10669136720836192,
-    "matched_query": "Pantai Seruni",
     "confidence_level": 4,
     "distance_km": 1070.7,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": false,
+    "reject_reason": "SALAH TOTAL: nyasar ke Pantai Seruni di Gunungkidul, Yogyakarta"
   },
   {
     "_id": "6a63777e37305c79d5761c88",
@@ -173,7 +165,6 @@
       "lat": -5.6333,
       "lng": 119.6833
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -189,11 +180,10 @@
       "lng": 119.9655936
     },
     "nominatim_display_name": "Danau Tempe, Baru Tancung, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.13338833524071106,
-    "matched_query": "Danau Tempe, Sulawesi Selatan, Indonesia",
     "confidence_level": 3,
     "distance_km": 7.37,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a63777e37305c79d5761c8a",
@@ -207,12 +197,11 @@
       "lat": -4.3494903,
       "lng": 119.885504
     },
-    "nominatim_display_name": "Taman Kalong Watansoppeng, Soppeng, Watansoppeng, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.08004649652857249,
-    "matched_query": "Taman Kalong, Soppeng, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Taman Kalong Watansoppeng, Soppeng, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 3.95,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a63777e37305c79d5761c8b",
@@ -226,12 +215,12 @@
       "lat": -5.1728218,
       "lng": 119.4053263
     },
-    "nominatim_display_name": "Jalan Tanjung Pallette, Sambung Jawa, Mamajang, Makassar, Sulawesi Selatan, 90126, Indonesia",
-    "nominatim_importance": 0.053388335240711036,
-    "matched_query": "Tanjung Pallette, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Jalan Tanjung Pallette, Makassar, Sulawesi Selatan, Indonesia",
     "confidence_level": 3,
     "distance_km": 125.01,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": false,
+    "reject_reason": "SALAH: nyasar ke nama jalan di Makassar, bukan tanjung di Bone"
   },
   {
     "_id": "6a6495d861136a730e53d84b",
@@ -241,7 +230,6 @@
       "lat": -5.5561,
       "lng": 120.4402
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -257,11 +245,10 @@
       "lng": 120.4387408
     },
     "nominatim_display_name": "Pantai Bara, Bulukumba, Bira, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.10670416800183105,
-    "matched_query": "Pantai Bara, Bulukumba, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 2.12,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d84d",
@@ -271,7 +258,6 @@
       "lat": -5.618,
       "lng": 120.45
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -287,11 +273,10 @@
       "lng": 120.4781462
     },
     "nominatim_display_name": "Pulau Kambing, Bulukumba, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.1333433333333333,
-    "matched_query": "Pulau Kambing, Bulukumba, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 6.53,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d84f",
@@ -301,7 +286,6 @@
       "lat": -5.6,
       "lng": 120.45
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -312,7 +296,6 @@
       "lat": -5.2667,
       "lng": 119.85
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -323,7 +306,6 @@
       "lat": -5.2833,
       "lng": 119.85
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -338,12 +320,12 @@
       "lat": -5.1776688,
       "lng": 119.4475553
     },
-    "nominatim_display_name": "Jalan Bendungan Bili-Bili, Jipang, Karunrung, Rappocini, Makassar, Sulawesi Selatan, 90222, Indonesia",
-    "nominatim_importance": 0.053388335240711036,
-    "matched_query": "Bendungan Bili-bili, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Jalan Bendungan Bili-Bili, Makassar, Sulawesi Selatan, Indonesia",
     "confidence_level": 3,
     "distance_km": 19.73,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": false,
+    "reject_reason": "SALAH: nyasar ke nama jalan di Makassar, bukan bendungan di Gowa"
   },
   {
     "_id": "6a6495d861136a730e53d853",
@@ -353,7 +335,6 @@
       "lat": -5.25,
       "lng": 119.62
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -369,11 +350,10 @@
       "lng": 119.9122882
     },
     "nominatim_display_name": "Danau Tanralili, Manimbahoi, Parigi, Gowa, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.1333833348592355,
-    "matched_query": "Danau Tanralili, Gowa, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 8.08,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d855",
@@ -383,7 +363,6 @@
       "lat": -5.2167,
       "lng": 119.45
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -394,7 +373,6 @@
       "lat": -5.1325,
       "lng": 119.4028
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -409,12 +387,11 @@
       "lat": -5.1588529,
       "lng": 119.3940745
     },
-    "nominatim_display_name": "Trans Studio Mall, Maccini Sombala, Tamalate, Makassar, Sulawesi Selatan, 90134, Indonesia",
-    "nominatim_importance": 0.08003500190737771,
-    "matched_query": "Trans Studio Makassar, Kota Makassar, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Trans Studio Mall, Makassar, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 5.23,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d85b",
@@ -428,12 +405,11 @@
       "lat": -5.1713631,
       "lng": 119.3883039
     },
-    "nominatim_display_name": "Pantai Akkarena, Tanjung Balang, Tanjung Merdeka, Tamalate, Makassar, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.0800550019073777,
-    "matched_query": "Pantai Akkarena, Kota Makassar, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Pantai Akkarena, Makassar, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 1.58,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d85d",
@@ -448,11 +424,11 @@
       "lng": 119.6930821
     },
     "nominatim_display_name": "Taman Nasional Bantimurung Bulusaraung, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.10670416800183105,
-    "matched_query": "Taman Nasional Bantimurung, Sulawesi Selatan, Indonesia",
     "confidence_level": 3,
     "distance_km": 18.57,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": false,
+    "reject_reason": "RAGU: jarak 18.57km, kemungkinan ke kantor TN sisi Pangkep bukan pintu masuk Bantimurung"
   },
   {
     "_id": "6a6495d861136a730e53d85e",
@@ -462,7 +438,6 @@
       "lat": -4.9833,
       "lng": 119.65
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -473,7 +448,6 @@
       "lat": -4.9167,
       "lng": 119.75
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -484,7 +458,6 @@
       "lat": -4.75,
       "lng": 119.85
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -499,12 +472,11 @@
       "lat": -3.0149146,
       "lng": 119.875886
     },
-    "nominatim_display_name": "Londa, gpx, Nonongan Selatan, Toraja Utara, Sulawesi Selatan, 91831, Indonesia",
-    "nominatim_importance": 0.000040000762951049326,
-    "matched_query": "Londa, Toraja Utara, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Londa, Nonongan Selatan, Toraja Utara, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 6.44,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d862",
@@ -514,7 +486,6 @@
       "lat": -2.9333,
       "lng": 119.8833
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -529,12 +500,11 @@
       "lat": -2.929399,
       "lng": 119.948321
     },
-    "nominatim_display_name": "Museum Ne' Gandeng, Jalan Poros Rantepao - Sa'dan - Batas Kab. Luwu, Pangli, Toraja Utara, Sulawesi Selatan, 91853, Indonesia",
-    "nominatim_importance": 0.30663527500158994,
-    "matched_query": "Museum Ne' Gandeng, Toraja Utara, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Museum Ne' Gandeng, Pangli, Toraja Utara, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 11.4,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d864",
@@ -548,12 +518,11 @@
       "lat": -2.9730548,
       "lng": 119.8926959
     },
-    "nominatim_display_name": "Tugu Salib Bukit Singki', Jalan Tandi Tulak, Karassik, Penanian, Toraja Utara, Sulawesi Selatan, 91833, Indonesia",
-    "nominatim_importance": 0.000040000762951049326,
-    "matched_query": "Bukit Singki, Toraja Utara, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Tugu Salib Bukit Singki, Toraja Utara, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 1.26,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d865",
@@ -568,11 +537,10 @@
       "lng": 119.8858085
     },
     "nominatim_display_name": "Batutumonga, Toraja Utara, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.14670666742961772,
-    "matched_query": "Batutumonga, Toraja Utara, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 6.61,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d866",
@@ -582,7 +550,6 @@
       "lat": -3.25,
       "lng": 119.75
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -593,7 +560,6 @@
       "lat": -3.075,
       "lng": 119.8
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -608,12 +574,11 @@
       "lat": -3.0937028,
       "lng": 119.9025536
     },
-    "nominatim_display_name": "Suaya, Jalan Bassang, Turunan, Tana Toraja, Sulawesi Selatan, 91817, Indonesia",
-    "nominatim_importance": 0.00003750133516437045,
-    "matched_query": "Suaya, Tana Toraja, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Suaya, Turunan, Tana Toraja, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 6.37,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d869",
@@ -627,12 +592,11 @@
       "lat": -3.0842472,
       "lng": 119.880121
     },
-    "nominatim_display_name": "Buntu Burake, Tana Toraja, Sulawesi Selatan, 91817, Indonesia",
-    "nominatim_importance": 0.18929199030239088,
-    "matched_query": "Buntu Burake, Tana Toraja, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Buntu Burake, Tana Toraja, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 9.49,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d86a",
@@ -642,7 +606,6 @@
       "lat": -4.85,
       "lng": 119.55
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -653,7 +616,6 @@
       "lat": -4.7,
       "lng": 119.65
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -664,7 +626,6 @@
       "lat": -4.75,
       "lng": 119.55
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -680,11 +641,10 @@
       "lng": 119.6491
     },
     "nominatim_display_name": "Bulu Sorongan, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.1600375013351644,
-    "matched_query": "Bulu Sorongan, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 5.51,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d86e",
@@ -699,11 +659,10 @@
       "lng": 119.4635801
     },
     "nominatim_display_name": "Pulau Camba Cambang, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.4002432604740663,
-    "matched_query": "Pulau Camba-Cambang, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 12.9,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d86f",
@@ -717,12 +676,11 @@
       "lat": -5.5836432,
       "lng": 120.0976584
     },
-    "nominatim_display_name": "Pantai Marina Bantaeng, Gang Hotel Marina Beach, Bantaeng, Mariorennu, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.00003750133516437045,
-    "matched_query": "Pantai Marina Bantaeng, Bantaeng, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Pantai Marina Bantaeng, Gang Hotel Marina Beach, Bantaeng, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 16.76,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d870",
@@ -732,7 +690,6 @@
       "lat": -5.45,
       "lng": 119.98
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -747,12 +704,12 @@
       "lat": -0.4965413,
       "lng": 117.1662665
     },
-    "nominatim_display_name": "Jalan Bukit Rumbia I, Sidomulyo, Samarinda Ilir, Samarinda, Kalimantan Timur, Kalimantan, 75116, Indonesia",
-    "nominatim_importance": 0.053388431372548985,
-    "matched_query": "Bukit Rumbia",
+    "nominatim_display_name": "Jalan Bukit Rumbia I, Samarinda, Kalimantan Timur, Indonesia",
     "confidence_level": 4,
     "distance_km": 621.33,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": false,
+    "reject_reason": "SALAH TOTAL: nyasar ke Bukit Rumbia di Samarinda, Kalimantan Timur"
   },
   {
     "_id": "6a6495d861136a730e53d872",
@@ -762,7 +719,6 @@
       "lat": -5.5386,
       "lng": 119.9647
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -773,7 +729,6 @@
       "lat": -5.6667,
       "lng": 119.75
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -784,7 +739,6 @@
       "lat": -5.6167,
       "lng": 119.55
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -795,7 +749,6 @@
       "lat": -5.55,
       "lng": 119.65
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -811,11 +764,10 @@
       "lng": 119.599526
     },
     "nominatim_display_name": "Pulau Libukang, Mallasoro, Jeneponto, Sulawesi Selatan, Indonesia",
-    "nominatim_importance": 0.13337083466849772,
-    "matched_query": "Pulau Libukang, Jeneponto, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 17.36,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d877",
@@ -825,7 +777,6 @@
       "lat": -5.65,
       "lng": 119.55
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -836,7 +787,6 @@
       "lat": -3.85,
       "lng": 120.15
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -847,7 +797,6 @@
       "lat": -4.1333,
       "lng": 120.0167
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -862,12 +811,11 @@
       "lat": -4.1378326,
       "lng": 120.0326461
     },
-    "nominatim_display_name": "Saoraja Mallangga, Jalan Jenderal Ahmad Yani, Wajo, Padduppa, Sulawesi Selatan, 90912, Indonesia",
-    "nominatim_importance": 0.000055001907377691576,
-    "matched_query": "Museum Saoraja Mallangga, Wajo, Sulawesi Selatan, Indonesia",
+    "nominatim_display_name": "Saoraja Mallangga, Wajo, Padduppa, Sulawesi Selatan, Indonesia",
     "confidence_level": 1,
     "distance_km": 1.84,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d87b",
@@ -881,12 +829,11 @@
       "lat": -4.1401801,
       "lng": 120.0311651
     },
-    "nominatim_display_name": "Masjid Agung Ummul Qura Sengkang, Jalan Setapak, Wajo, Padduppa, Sulawesi Selatan, 90912, Indonesia",
-    "nominatim_importance": 0.000055001907377691576,
-    "matched_query": "Masjid Agung Ummul Qura",
+    "nominatim_display_name": "Masjid Agung Ummul Qura Sengkang, Wajo, Padduppa, Sulawesi Selatan, Indonesia",
     "confidence_level": 4,
     "distance_km": 1.78,
-    "status": "FOUND"
+    "status": "FOUND",
+    "approve": true
   },
   {
     "_id": "6a6495d861136a730e53d87c",
@@ -896,7 +843,6 @@
       "lat": -4.05,
       "lng": 120
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -907,7 +853,6 @@
       "lat": -4.25,
       "lng": 119.95
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -918,7 +863,6 @@
       "lat": -4.35,
       "lng": 119.9
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -929,7 +873,6 @@
       "lat": -4.25,
       "lng": 119.95
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -940,7 +883,6 @@
       "lat": -4.32,
       "lng": 119.9
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -951,7 +893,6 @@
       "lat": -4.4,
       "lng": 120.2
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -962,7 +903,6 @@
       "lat": -4.55,
       "lng": 120.25
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -973,7 +913,6 @@
       "lat": -4.3,
       "lng": 119.9
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -984,7 +923,6 @@
       "lat": -4.5333,
       "lng": 120.3333
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   },
   {
@@ -995,7 +933,6 @@
       "lat": -4.95,
       "lng": 120.35
     },
-    "geocode_result": null,
     "status": "NOT_FOUND"
   }
 ]
