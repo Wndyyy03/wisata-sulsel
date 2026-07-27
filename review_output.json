@@ -1,0 +1,1001 @@
+[
+  {
+    "_id": "6a635f380b463ce4f5fee98b",
+    "name": "Tanjung Bira",
+    "regency": "Bulukumba",
+    "old_location": {
+      "lat": -5.5679,
+      "lng": 120.4258
+    },
+    "new_location": {
+      "lat": -5.1721843,
+      "lng": 119.4059412
+    },
+    "nominatim_display_name": "Jalan Tanjung Bira, Sambung Jawa, Mamajang, Makassar, Sulawesi Selatan, 90126, Indonesia",
+    "nominatim_importance": 0.053388335240711036,
+    "matched_query": "Tanjung Bira, Sulawesi Selatan, Indonesia",
+    "confidence_level": 3,
+    "distance_km": 121.18,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a635f380b463ce4f5fee98c",
+    "name": "Kete Kesu",
+    "regency": "Toraja Utara",
+    "old_location": {
+      "lat": -3.0817,
+      "lng": 119.8919
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a635f380b463ce4f5fee98d",
+    "name": "Bantimurung Waterfall & Butterfly Park",
+    "regency": "Maros",
+    "old_location": {
+      "lat": -5.0322,
+      "lng": 119.6564
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a635f380b463ce4f5fee98e",
+    "name": "Rammang-Rammang",
+    "regency": "Maros",
+    "old_location": {
+      "lat": -4.9601,
+      "lng": 119.5975
+    },
+    "new_location": {
+      "lat": -4.9265859,
+      "lng": 119.5945104
+    },
+    "nominatim_display_name": "Rammang-Rammang, Jalan Poros Maros - Pangkajene Pangkep, Lempangan, Bontoa, Maros, Bonto Langkasa, Sulawesi Selatan, 90554, Indonesia",
+    "nominatim_importance": 0.4075198435543142,
+    "matched_query": "Rammang-Rammang, Maros, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 3.74,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a635f380b463ce4f5fee98f",
+    "name": "Pantai Losari",
+    "regency": "Kota Makassar",
+    "old_location": {
+      "lat": -5.1361,
+      "lng": 119.4058
+    },
+    "new_location": {
+      "lat": -5.14338,
+      "lng": 119.4075647
+    },
+    "nominatim_display_name": "Anjungan Pantai Losari, Maloku, Ujung Pandang, Makassar, Sulawesi Selatan, 90113, Indonesia",
+    "nominatim_importance": 0.053388335240711036,
+    "matched_query": "Pantai Losari, Kota Makassar, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 0.83,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a635f380b463ce4f5fee990",
+    "name": "Malino",
+    "regency": "Gowa",
+    "old_location": {
+      "lat": -5.2649,
+      "lng": 119.8464
+    },
+    "new_location": {
+      "lat": -5.2391462,
+      "lng": 119.8706126
+    },
+    "nominatim_display_name": "Malino, Tinggimoncong, Gowa, Sulawesi Selatan, 92178, Indonesia",
+    "nominatim_importance": 0.18671666819256882,
+    "matched_query": "Malino, Gowa, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 3.92,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a635f380b463ce4f5fee991",
+    "name": "Pulau Samalona",
+    "regency": "Kota Makassar",
+    "old_location": {
+      "lat": -5.1225,
+      "lng": 119.3733
+    },
+    "new_location": {
+      "lat": -5.1255054,
+      "lng": 119.3435008
+    },
+    "nominatim_display_name": "Pulau Samalona, Lae-Lae, Ujung Pandang, Makassar, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.39892313782029826,
+    "matched_query": "Pulau Samalona, Kota Makassar, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 3.32,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a635f380b463ce4f5fee992",
+    "name": "Benteng Rotterdam",
+    "regency": "Kota Makassar",
+    "old_location": {
+      "lat": -5.133,
+      "lng": 119.4083
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a63777e37305c79d5761c86",
+    "name": "Pulau Kapoposang",
+    "regency": "Pangkajene dan Kepulauan",
+    "old_location": {
+      "lat": -4.6667,
+      "lng": 118.9667
+    },
+    "new_location": {
+      "lat": -4.7003727,
+      "lng": 118.962176
+    },
+    "nominatim_display_name": "Pulau Kapoposang, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.40053304207139734,
+    "matched_query": "Pulau Kapoposang, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 3.78,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a63777e37305c79d5761c87",
+    "name": "Pantai Seruni",
+    "regency": "Bantaeng",
+    "old_location": {
+      "lat": -5.5386,
+      "lng": 119.9647
+    },
+    "new_location": {
+      "lat": -8.1599168,
+      "lng": 110.6317119
+    },
+    "nominatim_display_name": "Pantai Seruni, Tepus, Gunungkidul, Daerah Istimewa Yogyakarta, Indonesia",
+    "nominatim_importance": 0.10669136720836192,
+    "matched_query": "Pantai Seruni",
+    "confidence_level": 4,
+    "distance_km": 1070.7,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a63777e37305c79d5761c88",
+    "name": "Batu Siping",
+    "regency": "Jeneponto",
+    "old_location": {
+      "lat": -5.6333,
+      "lng": 119.6833
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a63777e37305c79d5761c89",
+    "name": "Danau Tempe",
+    "regency": "Wajo",
+    "old_location": {
+      "lat": -4.0833,
+      "lng": 119.9167
+    },
+    "new_location": {
+      "lat": -4.1282038,
+      "lng": 119.9655936
+    },
+    "nominatim_display_name": "Danau Tempe, Baru Tancung, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.13338833524071106,
+    "matched_query": "Danau Tempe, Sulawesi Selatan, Indonesia",
+    "confidence_level": 3,
+    "distance_km": 7.37,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a63777e37305c79d5761c8a",
+    "name": "Taman Kalong",
+    "regency": "Soppeng",
+    "old_location": {
+      "lat": -4.3667,
+      "lng": 119.9167
+    },
+    "new_location": {
+      "lat": -4.3494903,
+      "lng": 119.885504
+    },
+    "nominatim_display_name": "Taman Kalong Watansoppeng, Soppeng, Watansoppeng, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.08004649652857249,
+    "matched_query": "Taman Kalong, Soppeng, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 3.95,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a63777e37305c79d5761c8b",
+    "name": "Tanjung Pallette",
+    "regency": "Bone",
+    "old_location": {
+      "lat": -4.5333,
+      "lng": 120.3333
+    },
+    "new_location": {
+      "lat": -5.1728218,
+      "lng": 119.4053263
+    },
+    "nominatim_display_name": "Jalan Tanjung Pallette, Sambung Jawa, Mamajang, Makassar, Sulawesi Selatan, 90126, Indonesia",
+    "nominatim_importance": 0.053388335240711036,
+    "matched_query": "Tanjung Pallette, Sulawesi Selatan, Indonesia",
+    "confidence_level": 3,
+    "distance_km": 125.01,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d84b",
+    "name": "Pantai Apparalang",
+    "regency": "Bulukumba",
+    "old_location": {
+      "lat": -5.5561,
+      "lng": 120.4402
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d84c",
+    "name": "Pantai Bara",
+    "regency": "Bulukumba",
+    "old_location": {
+      "lat": -5.6178,
+      "lng": 120.4557
+    },
+    "new_location": {
+      "lat": -5.6089761,
+      "lng": 120.4387408
+    },
+    "nominatim_display_name": "Pantai Bara, Bulukumba, Bira, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.10670416800183105,
+    "matched_query": "Pantai Bara, Bulukumba, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 2.12,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d84d",
+    "name": "Puncak Pua Janggo",
+    "regency": "Bulukumba",
+    "old_location": {
+      "lat": -5.618,
+      "lng": 120.45
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d84e",
+    "name": "Pulau Kambing",
+    "regency": "Bulukumba",
+    "old_location": {
+      "lat": -5.62,
+      "lng": 120.48
+    },
+    "new_location": {
+      "lat": -5.6786597,
+      "lng": 120.4781462
+    },
+    "nominatim_display_name": "Pulau Kambing, Bulukumba, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.1333433333333333,
+    "matched_query": "Pulau Kambing, Bulukumba, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 6.53,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d84f",
+    "name": "Gua Passohara",
+    "regency": "Bulukumba",
+    "old_location": {
+      "lat": -5.6,
+      "lng": 120.45
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d850",
+    "name": "Malino Highland",
+    "regency": "Gowa",
+    "old_location": {
+      "lat": -5.2667,
+      "lng": 119.85
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d851",
+    "name": "Air Terjun Takapala",
+    "regency": "Gowa",
+    "old_location": {
+      "lat": -5.2833,
+      "lng": 119.85
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d852",
+    "name": "Bendungan Bili-bili",
+    "regency": "Gowa",
+    "old_location": {
+      "lat": -5.2333,
+      "lng": 119.6167
+    },
+    "new_location": {
+      "lat": -5.1776688,
+      "lng": 119.4475553
+    },
+    "nominatim_display_name": "Jalan Bendungan Bili-Bili, Jipang, Karunrung, Rappocini, Makassar, Sulawesi Selatan, 90222, Indonesia",
+    "nominatim_importance": 0.053388335240711036,
+    "matched_query": "Bendungan Bili-bili, Sulawesi Selatan, Indonesia",
+    "confidence_level": 3,
+    "distance_km": 19.73,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d853",
+    "name": "Air Terjun Parangloe",
+    "regency": "Gowa",
+    "old_location": {
+      "lat": -5.25,
+      "lng": 119.62
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d854",
+    "name": "Danau Tanralili",
+    "regency": "Gowa",
+    "old_location": {
+      "lat": -5.35,
+      "lng": 119.85
+    },
+    "new_location": {
+      "lat": -5.312212,
+      "lng": 119.9122882
+    },
+    "nominatim_display_name": "Danau Tanralili, Manimbahoi, Parigi, Gowa, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.1333833348592355,
+    "matched_query": "Danau Tanralili, Gowa, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 8.08,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d855",
+    "name": "Masjid Tua Al-Hilal Katangka",
+    "regency": "Gowa",
+    "old_location": {
+      "lat": -5.2167,
+      "lng": 119.45
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d859",
+    "name": "Masjid 99 Kubah Al Alam",
+    "regency": "Kota Makassar",
+    "old_location": {
+      "lat": -5.1325,
+      "lng": 119.4028
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d85a",
+    "name": "Trans Studio Makassar",
+    "regency": "Kota Makassar",
+    "old_location": {
+      "lat": -5.1667,
+      "lng": 119.4406
+    },
+    "new_location": {
+      "lat": -5.1588529,
+      "lng": 119.3940745
+    },
+    "nominatim_display_name": "Trans Studio Mall, Maccini Sombala, Tamalate, Makassar, Sulawesi Selatan, 90134, Indonesia",
+    "nominatim_importance": 0.08003500190737771,
+    "matched_query": "Trans Studio Makassar, Kota Makassar, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 5.23,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d85b",
+    "name": "Pantai Akkarena",
+    "regency": "Kota Makassar",
+    "old_location": {
+      "lat": -5.1685,
+      "lng": 119.4023
+    },
+    "new_location": {
+      "lat": -5.1713631,
+      "lng": 119.3883039
+    },
+    "nominatim_display_name": "Pantai Akkarena, Tanjung Balang, Tanjung Merdeka, Tamalate, Makassar, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.0800550019073777,
+    "matched_query": "Pantai Akkarena, Kota Makassar, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 1.58,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d85d",
+    "name": "Taman Nasional Bantimurung",
+    "regency": "Maros",
+    "old_location": {
+      "lat": -5.0333,
+      "lng": 119.6667
+    },
+    "new_location": {
+      "lat": -4.8683731,
+      "lng": 119.6930821
+    },
+    "nominatim_display_name": "Taman Nasional Bantimurung Bulusaraung, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.10670416800183105,
+    "matched_query": "Taman Nasional Bantimurung, Sulawesi Selatan, Indonesia",
+    "confidence_level": 3,
+    "distance_km": 18.57,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d85e",
+    "name": "Taman Purbakala Leang-Leang",
+    "regency": "Maros",
+    "old_location": {
+      "lat": -4.9833,
+      "lng": 119.65
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d85f",
+    "name": "Air Terjun Maddenge",
+    "regency": "Maros",
+    "old_location": {
+      "lat": -4.9167,
+      "lng": 119.75
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d860",
+    "name": "Permandian Air Panas Rea Toa",
+    "regency": "Maros",
+    "old_location": {
+      "lat": -4.75,
+      "lng": 119.85
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d861",
+    "name": "Londa",
+    "regency": "Toraja Utara",
+    "old_location": {
+      "lat": -3.0667,
+      "lng": 119.85
+    },
+    "new_location": {
+      "lat": -3.0149146,
+      "lng": 119.875886
+    },
+    "nominatim_display_name": "Londa, gpx, Nonongan Selatan, Toraja Utara, Sulawesi Selatan, 91831, Indonesia",
+    "nominatim_importance": 0.000040000762951049326,
+    "matched_query": "Londa, Toraja Utara, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 6.44,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d862",
+    "name": "Danau Limbong",
+    "regency": "Toraja Utara",
+    "old_location": {
+      "lat": -2.9333,
+      "lng": 119.8833
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d863",
+    "name": "Museum Ne' Gandeng",
+    "regency": "Toraja Utara",
+    "old_location": {
+      "lat": -2.9,
+      "lng": 119.85
+    },
+    "new_location": {
+      "lat": -2.929399,
+      "lng": 119.948321
+    },
+    "nominatim_display_name": "Museum Ne' Gandeng, Jalan Poros Rantepao - Sa'dan - Batas Kab. Luwu, Pangli, Toraja Utara, Sulawesi Selatan, 91853, Indonesia",
+    "nominatim_importance": 0.30663527500158994,
+    "matched_query": "Museum Ne' Gandeng, Toraja Utara, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 11.4,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d864",
+    "name": "Bukit Singki",
+    "regency": "Toraja Utara",
+    "old_location": {
+      "lat": -2.9667,
+      "lng": 119.8833
+    },
+    "new_location": {
+      "lat": -2.9730548,
+      "lng": 119.8926959
+    },
+    "nominatim_display_name": "Tugu Salib Bukit Singki', Jalan Tandi Tulak, Karassik, Penanian, Toraja Utara, Sulawesi Selatan, 91833, Indonesia",
+    "nominatim_importance": 0.000040000762951049326,
+    "matched_query": "Bukit Singki, Toraja Utara, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 1.26,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d865",
+    "name": "Batutumonga",
+    "regency": "Toraja Utara",
+    "old_location": {
+      "lat": -2.8833,
+      "lng": 119.8333
+    },
+    "new_location": {
+      "lat": -2.9113081,
+      "lng": 119.8858085
+    },
+    "nominatim_display_name": "Batutumonga, Toraja Utara, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.14670666742961772,
+    "matched_query": "Batutumonga, Toraja Utara, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 6.61,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d866",
+    "name": "Lembah Kendenan",
+    "regency": "Tana Toraja",
+    "old_location": {
+      "lat": -3.25,
+      "lng": 119.75
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d867",
+    "name": "Makam Lemo",
+    "regency": "Tana Toraja",
+    "old_location": {
+      "lat": -3.075,
+      "lng": 119.8
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d868",
+    "name": "Suaya",
+    "regency": "Tana Toraja",
+    "old_location": {
+      "lat": -3.1167,
+      "lng": 119.85
+    },
+    "new_location": {
+      "lat": -3.0937028,
+      "lng": 119.9025536
+    },
+    "nominatim_display_name": "Suaya, Jalan Bassang, Turunan, Tana Toraja, Sulawesi Selatan, 91817, Indonesia",
+    "nominatim_importance": 0.00003750133516437045,
+    "matched_query": "Suaya, Tana Toraja, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 6.37,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d869",
+    "name": "Buntu Burake",
+    "regency": "Tana Toraja",
+    "old_location": {
+      "lat": -3,
+      "lng": 119.8667
+    },
+    "new_location": {
+      "lat": -3.0842472,
+      "lng": 119.880121
+    },
+    "nominatim_display_name": "Buntu Burake, Tana Toraja, Sulawesi Selatan, 91817, Indonesia",
+    "nominatim_importance": 0.18929199030239088,
+    "matched_query": "Buntu Burake, Tana Toraja, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 9.49,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d86a",
+    "name": "Taman Purbakala Sumpang Bita",
+    "regency": "Pangkajene dan Kepulauan",
+    "old_location": {
+      "lat": -4.85,
+      "lng": 119.55
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d86b",
+    "name": "Leang Lonrong",
+    "regency": "Pangkajene dan Kepulauan",
+    "old_location": {
+      "lat": -4.7,
+      "lng": 119.65
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d86c",
+    "name": "Air Terjun Cambang Cui",
+    "regency": "Pangkajene dan Kepulauan",
+    "old_location": {
+      "lat": -4.75,
+      "lng": 119.55
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d86d",
+    "name": "Bulu Sorongan",
+    "regency": "Pangkajene dan Kepulauan",
+    "old_location": {
+      "lat": -4.65,
+      "lng": 119.6
+    },
+    "new_location": {
+      "lat": -4.6421,
+      "lng": 119.6491
+    },
+    "nominatim_display_name": "Bulu Sorongan, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.1600375013351644,
+    "matched_query": "Bulu Sorongan, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 5.51,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d86e",
+    "name": "Pulau Camba-Cambang",
+    "regency": "Pangkajene dan Kepulauan",
+    "old_location": {
+      "lat": -4.75,
+      "lng": 119.35
+    },
+    "new_location": {
+      "lat": -4.7753391,
+      "lng": 119.4635801
+    },
+    "nominatim_display_name": "Pulau Camba Cambang, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.4002432604740663,
+    "matched_query": "Pulau Camba-Cambang, Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 12.9,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d86f",
+    "name": "Pantai Marina Bantaeng",
+    "regency": "Bantaeng",
+    "old_location": {
+      "lat": -5.55,
+      "lng": 119.95
+    },
+    "new_location": {
+      "lat": -5.5836432,
+      "lng": 120.0976584
+    },
+    "nominatim_display_name": "Pantai Marina Bantaeng, Gang Hotel Marina Beach, Bantaeng, Mariorennu, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.00003750133516437045,
+    "matched_query": "Pantai Marina Bantaeng, Bantaeng, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 16.76,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d870",
+    "name": "Air Terjun Bissappu",
+    "regency": "Bantaeng",
+    "old_location": {
+      "lat": -5.45,
+      "lng": 119.98
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d871",
+    "name": "Bukit Rumbia",
+    "regency": "Bantaeng",
+    "old_location": {
+      "lat": -5.4,
+      "lng": 119.85
+    },
+    "new_location": {
+      "lat": -0.4965413,
+      "lng": 117.1662665
+    },
+    "nominatim_display_name": "Jalan Bukit Rumbia I, Sidomulyo, Samarinda Ilir, Samarinda, Kalimantan Timur, Kalimantan, 75116, Indonesia",
+    "nominatim_importance": 0.053388431372548985,
+    "matched_query": "Bukit Rumbia",
+    "confidence_level": 4,
+    "distance_km": 621.33,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d872",
+    "name": "Rumah Adat Balla Lompoa Bantaeng",
+    "regency": "Bantaeng",
+    "old_location": {
+      "lat": -5.5386,
+      "lng": 119.9647
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d873",
+    "name": "Pantai Tamarunang",
+    "regency": "Jeneponto",
+    "old_location": {
+      "lat": -5.6667,
+      "lng": 119.75
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d874",
+    "name": "Pantai Garassikang",
+    "regency": "Jeneponto",
+    "old_location": {
+      "lat": -5.6167,
+      "lng": 119.55
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d875",
+    "name": "Air Terjun Tama'lulua",
+    "regency": "Jeneponto",
+    "old_location": {
+      "lat": -5.55,
+      "lng": 119.65
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d876",
+    "name": "Pulau Libukang",
+    "regency": "Jeneponto",
+    "old_location": {
+      "lat": -5.5,
+      "lng": 119.55
+    },
+    "new_location": {
+      "lat": -5.6481644,
+      "lng": 119.599526
+    },
+    "nominatim_display_name": "Pulau Libukang, Mallasoro, Jeneponto, Sulawesi Selatan, Indonesia",
+    "nominatim_importance": 0.13337083466849772,
+    "matched_query": "Pulau Libukang, Jeneponto, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 17.36,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d877",
+    "name": "Danau Bulu Jaya",
+    "regency": "Jeneponto",
+    "old_location": {
+      "lat": -5.65,
+      "lng": 119.55
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d878",
+    "name": "Air Terjun Sumpang Puli",
+    "regency": "Wajo",
+    "old_location": {
+      "lat": -3.85,
+      "lng": 120.15
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d879",
+    "name": "Rumah Adat Attakkae",
+    "regency": "Wajo",
+    "old_location": {
+      "lat": -4.1333,
+      "lng": 120.0167
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d87a",
+    "name": "Museum Saoraja Mallangga",
+    "regency": "Wajo",
+    "old_location": {
+      "lat": -4.1333,
+      "lng": 120.0167
+    },
+    "new_location": {
+      "lat": -4.1378326,
+      "lng": 120.0326461
+    },
+    "nominatim_display_name": "Saoraja Mallangga, Jalan Jenderal Ahmad Yani, Wajo, Padduppa, Sulawesi Selatan, 90912, Indonesia",
+    "nominatim_importance": 0.000055001907377691576,
+    "matched_query": "Museum Saoraja Mallangga, Wajo, Sulawesi Selatan, Indonesia",
+    "confidence_level": 1,
+    "distance_km": 1.84,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d87b",
+    "name": "Masjid Agung Ummul Qura",
+    "regency": "Wajo",
+    "old_location": {
+      "lat": -4.1333,
+      "lng": 120.0167
+    },
+    "new_location": {
+      "lat": -4.1401801,
+      "lng": 120.0311651
+    },
+    "nominatim_display_name": "Masjid Agung Ummul Qura Sengkang, Jalan Setapak, Wajo, Padduppa, Sulawesi Selatan, 90912, Indonesia",
+    "nominatim_importance": 0.000055001907377691576,
+    "matched_query": "Masjid Agung Ummul Qura",
+    "confidence_level": 4,
+    "distance_km": 1.78,
+    "status": "FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d87c",
+    "name": "Desa Sutera Pakkana",
+    "regency": "Wajo",
+    "old_location": {
+      "lat": -4.05,
+      "lng": 120
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d87d",
+    "name": "Pemandian Air Panas Lejja",
+    "regency": "Soppeng",
+    "old_location": {
+      "lat": -4.25,
+      "lng": 119.95
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d87e",
+    "name": "Puncak Gunung Sewo",
+    "regency": "Soppeng",
+    "old_location": {
+      "lat": -4.35,
+      "lng": 119.9
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d87f",
+    "name": "Rumah Adat Sao Mario",
+    "regency": "Soppeng",
+    "old_location": {
+      "lat": -4.25,
+      "lng": 119.95
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d880",
+    "name": "Pemandian Alam Ompo",
+    "regency": "Soppeng",
+    "old_location": {
+      "lat": -4.32,
+      "lng": 119.9
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d881",
+    "name": "Goa Mampu",
+    "regency": "Bone",
+    "old_location": {
+      "lat": -4.4,
+      "lng": 120.2
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d882",
+    "name": "Puncak Lima Jari",
+    "regency": "Bone",
+    "old_location": {
+      "lat": -4.55,
+      "lng": 120.25
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d883",
+    "name": "Hutan Pinus Bulu Tanah",
+    "regency": "Bone",
+    "old_location": {
+      "lat": -4.3,
+      "lng": 119.9
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d884",
+    "name": "Bola Soba",
+    "regency": "Bone",
+    "old_location": {
+      "lat": -4.5333,
+      "lng": 120.3333
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  },
+  {
+    "_id": "6a6495d861136a730e53d885",
+    "name": "Pantai Togeo Tonra",
+    "regency": "Bone",
+    "old_location": {
+      "lat": -4.95,
+      "lng": 120.35
+    },
+    "geocode_result": null,
+    "status": "NOT_FOUND"
+  }
+]
